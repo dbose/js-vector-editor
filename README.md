@@ -1,6 +1,6 @@
-js-vector-editor
-================
 SVG Editor
+================
+Simple SVG Editor
 
 ## Features supported
 
